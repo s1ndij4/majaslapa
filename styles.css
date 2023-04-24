@@ -1,0 +1,38 @@
+h1, h3 {
+    color: aqua;
+}
+
+img {
+    height: 200px;
+}
+body{
+    font-family: 'Cormorant Garamond', serif;
+}
+.rindkopa {
+    color:rgb(196, 18, 178);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.slipraksts {
+    font-style: italic;
+}
+
+#izcelts {
+    font-weight: bold;
+}
+
+.kvadrats {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border: 2px solid;
+}
+.platums {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+.blakus{
+    float: left;
+}
